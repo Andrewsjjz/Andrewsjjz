@@ -12,9 +12,6 @@
   <a href="https://www.behance.net/andresjimenez98" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
-  <a href="Andresjimenez884@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
@@ -27,7 +24,7 @@
 
 ###
 
-<p align="left">- 👀 I’m interested in web development, both backend and frontend. I am a computer engineer and Full Stack React developer. I have extensive knowledge of React, React Router Dom, TailwindCSS, Bootstrap, Material UI, Remix, NextJs, Redux, Astro, MongoDB, MySql, Postgres, Xampp, AWS, FireBase, Prisma, Strapi and Figma<br><br>- 📚 I’m currently learning React Native and Flutter<br><br>- ⚡ I like to face challenges, offer solutions in the most convenient and quick way possible, I am attentive to problems that may arise during development<br><br>- 🔝 My experience includes building responsive and highly interactive web applications. I am passionate about creating intuitive and visually appealing user interfaces that provide a seamless experience to end-users. In addition to my front-end experience<br><br>- 💞️ I’m looking to collaborate on any project that requires my knowledge</p>
+<p align="left">- 👀 Computer Engineer with a creative flair, a fullstack developer with an eye for design, a data scientist with a passion for machine learning and a UX/UI designer who cares about every pixel with 4 years of experience in the web development world.</p>
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
